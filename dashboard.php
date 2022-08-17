@@ -24,7 +24,7 @@ if (isset($_SESSION['userID'])){
 			
 		</h1>
 
-		<h2><a href="logout.php">Logout</a></h2>
+		<h2><a href="index.php">Logout</a></h2>
 			</div>
 
 </body>
