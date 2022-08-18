@@ -33,7 +33,7 @@ if (isset($_SESSION['userID'])){
 <?php
   
 }else{
-	header("location:login.php");
+	header("location:index.php");
 }
 
 ?>
